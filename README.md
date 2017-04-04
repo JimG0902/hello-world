@@ -1,2 +1,3 @@
 # hello-world
-New repos for github
+Hi, Jim here... 
+So far I've been successful, I hope this continues.
